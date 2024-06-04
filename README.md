@@ -40,7 +40,7 @@ Run the following command to install the required Python packages:
 Execute the Python script from the command line using the following command:
 
   ```Bash
-  python exifnavigator.py
+  python eNav.py
   ```
 
 
