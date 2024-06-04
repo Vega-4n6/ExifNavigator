@@ -31,7 +31,7 @@ Ensure you have Python 3.x installed. You can download Python from [python.org](
 Run the following command to install the required Python packages:
      ```bash
      
-     pip install -r requirements.txts
+     pip install -r requirements.txt
      
 
 ## How to Use
